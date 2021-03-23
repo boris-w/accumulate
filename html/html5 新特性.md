@@ -54,6 +54,7 @@ type
 - widht、height 用于image类型的input的图像高度和宽度
 - autofocus boolean属性，是否页面加载时自动获得焦点
 - multiple boolean属性，是否多选
+- [inputmode](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Global_attributes/inputmode) string 它提供了用户在编辑元素或其内容时可能输入的数据类型的提示（用于移动端弹出键盘类型）
 
 ## svg
 
