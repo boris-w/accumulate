@@ -69,6 +69,19 @@ console.log(people)
 
 ## [apply、call 和 bind 的区别， 原理以及实现过程](apply、call%20和%20bind%20的区别，%20原理以及实现过程.md)
 
+## [函数式编程](函数式编程.md)
+
+## 闭包
+
+在一个函数里面访问其他函数的变量的函数
+
+`应用场景`
+- setTimeout
+- 防抖节流
+- 封装私有变量
+- 回调
+
 ## 手写题
 
 - [promise](promise.js)
+- [防抖、节流](防抖、节流.md)
